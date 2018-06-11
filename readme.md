@@ -7,3 +7,6 @@ dependencies {
     implementation "com.android.support:support-v4:26.0.1"
     // SUB-PROJECT DEPENDENCIES END
 }
+
+No funciona con otra implementación:
+implementation "com.android.support:support-v4:26.0.1"
